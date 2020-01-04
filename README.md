@@ -23,3 +23,6 @@ How use the pretrained model...
   
 3) pretraining the meteric 
    The meteric is a bi directional GRU and its defination is provided in main train itself. Pretraining it would yield better results , the procedure is described in the paper.
+   
+   
+   Link for the Paper https://drive.google.com/file/u/3/d/17GlQGkBcQW-04QDfonAUsZSagwHcstgH/view

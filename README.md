@@ -1,4 +1,6 @@
 # Meaning-guided-video-captioning-
+``` All the work here is based on my paper```  
+
 This is the code based on our research paper on meaning guided video captioning. The code is written in pytorch.
 Here we describe a new approach to train a video captioning neural network , that is not only based on the normal cross entropy loss for the caption but also uses the meaning of the caption.
 
@@ -25,4 +27,4 @@ How use the pretrained model...
    The meteric is a bi directional GRU and its defination is provided in main train itself. Pretraining it would yield better results , the procedure is described in the paper.
    
    
-   Link for the Paper https://drive.google.com/file/u/3/d/17GlQGkBcQW-04QDfonAUsZSagwHcstgH/view
+   
